@@ -88,6 +88,11 @@ admin.site.register(Book)
 
 ![Screenshot 2024-03-31 200404](https://github.com/Aishwarya-TM/Web-Ex-2/assets/127846109/4d0815d0-8774-4785-bbb0-2ebe27573f7e)
 
+### ER Diagram:
+
+![image](https://github.com/Aishwarya-TM/Web-Ex-2/assets/127846109/e49f8df9-5813-4a9e-a4f6-d6a17242949f)
+
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
